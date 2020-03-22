@@ -356,9 +356,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 411,
+      "deaths": 1,
+      "recovered": 42
     }
   ],
   "Japan": [
@@ -718,9 +718,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 1007,
+      "deaths": 35,
+      "recovered": 232
     }
   ],
   "Singapore": [
@@ -1080,9 +1080,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 432,
+      "deaths": 2,
+      "recovered": 140
     }
   ],
   "Nepal": [
@@ -1442,9 +1442,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Malaysia": [
@@ -1804,9 +1804,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 1183,
+      "deaths": 4,
+      "recovered": 114
     }
   ],
   "Canada": [
@@ -2166,9 +2166,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 1278,
+      "deaths": 19,
+      "recovered": 10
     }
   ],
   "Australia": [
@@ -2528,9 +2528,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 1071,
+      "deaths": 7,
+      "recovered": 26
     }
   ],
   "Cambodia": [
@@ -2890,9 +2890,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 53,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Sri Lanka": [
@@ -3252,9 +3252,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 77,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Germany": [
@@ -3614,9 +3614,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 22213,
+      "deaths": 84,
+      "recovered": 233
     }
   ],
   "Finland": [
@@ -3976,9 +3976,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 523,
+      "deaths": 1,
+      "recovered": 10
     }
   ],
   "United Arab Emirates": [
@@ -4338,9 +4338,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 153,
+      "deaths": 2,
+      "recovered": 38
     }
   ],
   "Philippines": [
@@ -4700,9 +4700,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 307,
+      "deaths": 19,
+      "recovered": 13
     }
   ],
   "India": [
@@ -5062,9 +5062,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 330,
+      "deaths": 4,
+      "recovered": 23
     }
   ],
   "Italy": [
@@ -5424,9 +5424,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 53578,
+      "deaths": 4825,
+      "recovered": 6072
     }
   ],
   "Sweden": [
@@ -5786,9 +5786,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 1763,
+      "deaths": 20,
+      "recovered": 16
     }
   ],
   "Spain": [
@@ -6148,9 +6148,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 25374,
+      "deaths": 1375,
+      "recovered": 2125
     }
   ],
   "Belgium": [
@@ -6510,9 +6510,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 2815,
+      "deaths": 67,
+      "recovered": 263
     }
   ],
   "Egypt": [
@@ -6872,9 +6872,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 294,
+      "deaths": 10,
+      "recovered": 41
     }
   ],
   "Lebanon": [
@@ -7234,9 +7234,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 187,
+      "deaths": 4,
+      "recovered": 4
     }
   ],
   "Iraq": [
@@ -7596,9 +7596,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 214,
+      "deaths": 17,
+      "recovered": 51
     }
   ],
   "Oman": [
@@ -7958,9 +7958,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 52,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 12
     }
   ],
   "Afghanistan": [
@@ -8320,9 +8320,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 24,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Bahrain": [
@@ -8682,9 +8682,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 305,
+      "deaths": 1,
+      "recovered": 125
     }
   ],
   "Kuwait": [
@@ -9044,9 +9044,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 176,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 27
     }
   ],
   "Algeria": [
@@ -9406,9 +9406,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 139,
+      "deaths": 15,
+      "recovered": 32
     }
   ],
   "Croatia": [
@@ -9768,9 +9768,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 206,
+      "deaths": 1,
+      "recovered": 5
     }
   ],
   "Switzerland": [
@@ -10130,9 +10130,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 6575,
+      "deaths": 75,
+      "recovered": 15
     }
   ],
   "Austria": [
@@ -10492,9 +10492,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 2814,
+      "deaths": 8,
+      "recovered": 9
     }
   ],
   "Israel": [
@@ -10854,9 +10854,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 883,
+      "deaths": 1,
+      "recovered": 36
     }
   ],
   "Pakistan": [
@@ -11216,9 +11216,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 730,
+      "deaths": 3,
+      "recovered": 13
     }
   ],
   "Brazil": [
@@ -11578,9 +11578,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 1021,
+      "deaths": 15,
+      "recovered": 2
     }
   ],
   "Georgia": [
@@ -11940,9 +11940,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 49,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Greece": [
@@ -12302,9 +12302,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 530,
+      "deaths": 13,
+      "recovered": 19
     }
   ],
   "North Macedonia": [
@@ -12664,9 +12664,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 85,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Norway": [
@@ -13026,9 +13026,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 2118,
+      "deaths": 7,
+      "recovered": 1
     }
   ],
   "Romania": [
@@ -13388,9 +13388,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 367,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 52
     }
   ],
   "Estonia": [
@@ -13750,9 +13750,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 306,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "San Marino": [
@@ -14112,9 +14112,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 144,
+      "deaths": 20,
+      "recovered": 4
     }
   ],
   "Belarus": [
@@ -14474,9 +14474,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 76,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 15
     }
   ],
   "Iceland": [
@@ -14836,9 +14836,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 473,
+      "deaths": 1,
+      "recovered": 22
     }
   ],
   "Lithuania": [
@@ -15198,9 +15198,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 83,
+      "deaths": 1,
+      "recovered": 1
     }
   ],
   "Mexico": [
@@ -15560,9 +15560,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 203,
+      "deaths": 2,
+      "recovered": 4
     }
   ],
   "New Zealand": [
@@ -15922,7 +15922,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 52,
       "deaths": 0,
       "recovered": 0
     }
@@ -16284,9 +16284,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 22,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Ireland": [
@@ -16646,9 +16646,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 785,
+      "deaths": 3,
+      "recovered": 5
     }
   ],
   "Luxembourg": [
@@ -17008,8 +17008,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 670,
+      "deaths": 8,
       "recovered": 0
     }
   ],
@@ -17370,7 +17370,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 11,
       "deaths": 0,
       "recovered": 0
     }
@@ -17732,9 +17732,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 481,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 27
     }
   ],
   "Ecuador": [
@@ -18094,9 +18094,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 506,
+      "deaths": 7,
+      "recovered": 3
     }
   ],
   "Azerbaijan": [
@@ -18456,9 +18456,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 53,
+      "deaths": 1,
+      "recovered": 11
     }
   ],
   "Armenia": [
@@ -18818,9 +18818,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 160,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Dominican Republic": [
@@ -19180,8 +19180,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 112,
+      "deaths": 2,
       "recovered": 0
     }
   ],
@@ -19542,9 +19542,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 450,
+      "deaths": 38,
+      "recovered": 15
     }
   ],
   "Portugal": [
@@ -19904,9 +19904,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 1280,
+      "deaths": 12,
+      "recovered": 5
     }
   ],
   "Andorra": [
@@ -20266,9 +20266,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 88,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Latvia": [
@@ -20628,9 +20628,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 124,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Morocco": [
@@ -20990,9 +20990,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 96,
+      "deaths": 3,
+      "recovered": 3
     }
   ],
   "Saudi Arabia": [
@@ -21352,9 +21352,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 392,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 16
     }
   ],
   "Senegal": [
@@ -21714,9 +21714,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 47,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 5
     }
   ],
   "Argentina": [
@@ -22076,9 +22076,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 158,
+      "deaths": 4,
+      "recovered": 3
     }
   ],
   "Chile": [
@@ -22438,9 +22438,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 537,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 6
     }
   ],
   "Jordan": [
@@ -22800,9 +22800,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 85,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Ukraine": [
@@ -23162,9 +23162,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 47,
+      "deaths": 3,
+      "recovered": 1
     }
   ],
   "Hungary": [
@@ -23524,9 +23524,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 103,
+      "deaths": 4,
+      "recovered": 7
     }
   ],
   "Liechtenstein": [
@@ -23886,7 +23886,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 37,
       "deaths": 0,
       "recovered": 0
     }
@@ -24248,9 +24248,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 536,
+      "deaths": 5,
+      "recovered": 1
     }
   ],
   "Tunisia": [
@@ -24610,8 +24610,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 60,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -24972,9 +24972,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 93,
+      "deaths": 1,
+      "recovered": 2
     }
   ],
   "Slovenia": [
@@ -25334,8 +25334,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 383,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -25696,7 +25696,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 240,
       "deaths": 0,
       "recovered": 0
     }
@@ -26058,7 +26058,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -26420,7 +26420,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 27,
       "deaths": 0,
       "recovered": 0
     }
@@ -26782,9 +26782,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 196,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Costa Rica": [
@@ -27144,9 +27144,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 117,
+      "deaths": 2,
+      "recovered": 2
     }
   ],
   "Peru": [
@@ -27506,9 +27506,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 318,
+      "deaths": 5,
+      "recovered": 1
     }
   ],
   "Serbia": [
@@ -27868,9 +27868,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 171,
+      "deaths": 1,
+      "recovered": 1
     }
   ],
   "Slovakia": [
@@ -28230,8 +28230,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 178,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -28592,9 +28592,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 16,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Malta": [
@@ -28954,9 +28954,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 73,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 2
     }
   ],
   "Martinique": [
@@ -29316,8 +29316,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 32,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -29678,9 +29678,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 163,
+      "deaths": 3,
+      "recovered": 3
     }
   ],
   "Maldives": [
@@ -30040,7 +30040,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 13,
       "deaths": 0,
       "recovered": 0
     }
@@ -30402,9 +30402,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 25,
+      "deaths": 2,
+      "recovered": 3
     }
   ],
   "Paraguay": [
@@ -30764,8 +30764,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 18,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -31126,9 +31126,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 76,
+      "deaths": 2,
+      "recovered": 2
     }
   ],
   "Cyprus": [
@@ -31488,7 +31488,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 84,
       "deaths": 0,
       "recovered": 0
     }
@@ -31850,9 +31850,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 83,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 2
     }
   ],
   "US": [
@@ -32212,8 +32212,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 25489,
+      "deaths": 307,
       "recovered": 0
     }
   ],
@@ -32574,9 +32574,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 64,
+      "deaths": 2,
+      "recovered": 5
     }
   ],
   "Holy See": [
@@ -32936,7 +32936,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -33298,7 +33298,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 10,
       "deaths": 0,
       "recovered": 0
     }
@@ -33660,8 +33660,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 200,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -34022,9 +34022,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 81305,
+      "deaths": 3259,
+      "recovered": 71857
     }
   ],
   "Iran": [
@@ -34384,9 +34384,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 20610,
+      "deaths": 1556,
+      "recovered": 7635
     }
   ],
   "Korea, South": [
@@ -34746,9 +34746,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 8799,
+      "deaths": 102,
+      "recovered": 1540
     }
   ],
   "France": [
@@ -35108,9 +35108,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 14431,
+      "deaths": 562,
+      "recovered": 12
     }
   ],
   "Cruise Ship": [
@@ -35470,9 +35470,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 712,
+      "deaths": 8,
+      "recovered": 325
     }
   ],
   "Denmark": [
@@ -35832,9 +35832,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 1420,
+      "deaths": 13,
+      "recovered": 1
     }
   ],
   "Czechia": [
@@ -36194,9 +36194,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 995,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 6
     }
   ],
   "Taiwan*": [
@@ -36556,9 +36556,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 153,
+      "deaths": 2,
+      "recovered": 28
     }
   ],
   "Vietnam": [
@@ -36918,9 +36918,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 94,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 17
     }
   ],
   "Russia": [
@@ -37280,9 +37280,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 306,
+      "deaths": 1,
+      "recovered": 12
     }
   ],
   "Moldova": [
@@ -37642,9 +37642,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 80,
+      "deaths": 1,
+      "recovered": 1
     }
   ],
   "Bolivia": [
@@ -38004,7 +38004,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 19,
       "deaths": 0,
       "recovered": 0
     }
@@ -38366,7 +38366,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 24,
       "deaths": 0,
       "recovered": 0
     }
@@ -38728,9 +38728,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 5067,
+      "deaths": 234,
+      "recovered": 67
     }
   ],
   "Congo (Kinshasa)": [
@@ -39090,8 +39090,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 23,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -39452,9 +39452,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 14,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Jamaica": [
@@ -39814,9 +39814,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 16,
+      "deaths": 1,
+      "recovered": 2
     }
   ],
   "Turkey": [
@@ -40176,8 +40176,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 670,
+      "deaths": 9,
       "recovered": 0
     }
   ],
@@ -40538,8 +40538,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 21,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -40900,8 +40900,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 7,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -41262,7 +41262,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 53,
       "deaths": 0,
       "recovered": 0
     }
@@ -41624,7 +41624,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 9,
       "deaths": 0,
       "recovered": 0
     }
@@ -41986,8 +41986,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 2,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -42348,7 +42348,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -42710,7 +42710,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -43072,7 +43072,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -43434,7 +43434,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 110,
       "deaths": 0,
       "recovered": 0
     }
@@ -43796,8 +43796,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 19,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -44158,7 +44158,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -44520,7 +44520,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 7,
       "deaths": 0,
       "recovered": 0
     }
@@ -44882,9 +44882,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 49,
       "deaths": 0,
-      "recovered": 0
+      "recovered": 1
     }
   ],
   "Venezuela": [
@@ -45244,7 +45244,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 70,
       "deaths": 0,
       "recovered": 0
     }
@@ -45606,7 +45606,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -45968,8 +45968,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 4,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -46330,8 +46330,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 17,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -46692,7 +46692,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -47054,7 +47054,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 17,
       "deaths": 0,
       "recovered": 0
     }
@@ -47416,7 +47416,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -47778,7 +47778,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -48140,7 +48140,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -48502,7 +48502,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -48864,7 +48864,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -49226,7 +49226,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -49588,7 +49588,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -49950,7 +49950,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 43,
       "deaths": 0,
       "recovered": 0
     }
@@ -50312,9 +50312,9 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
-      "recovered": 0
+      "confirmed": 3640,
+      "deaths": 137,
+      "recovered": 2
     }
   ],
   "Benin": [
@@ -50674,7 +50674,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -51036,7 +51036,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -51398,7 +51398,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -51760,7 +51760,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -52122,7 +52122,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 6,
       "deaths": 0,
       "recovered": 0
     }
@@ -52484,7 +52484,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 14,
       "deaths": 0,
       "recovered": 0
     }
@@ -52846,7 +52846,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 14,
       "deaths": 0,
       "recovered": 0
     }
@@ -53208,8 +53208,8 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
-      "deaths": 0,
+      "confirmed": 14,
+      "deaths": 1,
       "recovered": 0
     }
   ],
@@ -53570,7 +53570,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -53932,7 +53932,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -54294,7 +54294,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -54656,7 +54656,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 4,
       "deaths": 0,
       "recovered": 0
     }
@@ -55018,7 +55018,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -55380,7 +55380,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -55742,7 +55742,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -56104,7 +56104,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -56466,7 +56466,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -56828,7 +56828,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -57190,7 +57190,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 2,
       "deaths": 0,
       "recovered": 0
     }
@@ -57552,7 +57552,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 3,
       "deaths": 0,
       "recovered": 0
     }
@@ -57914,7 +57914,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -58276,7 +58276,7 @@
     },
     {
       "date": "2020-3-21",
-      "confirmed": 0,
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
@@ -58638,7 +58638,1455 @@
     },
     {
       "date": "2020-3-21",
+      "confirmed": 3,
+      "deaths": 0,
+      "recovered": 0
+    }
+  ],
+  "Cape Verde": [
+    {
+      "date": "2020-1-22",
       "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-23",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-24",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-25",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-26",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-27",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-28",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-29",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-30",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-31",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-1",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-2",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-3",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-4",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-5",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-6",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-7",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-8",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-9",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-10",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-11",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-12",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-13",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-15",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-16",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-17",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-18",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-19",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-20",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-21",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-22",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-23",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-24",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-25",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-26",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-27",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-28",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-29",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-1",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-2",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-3",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-4",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-5",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-6",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-7",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-8",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-9",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-10",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-11",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-12",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-13",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-15",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-16",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-17",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  ],
+  "East Timor": [
+    {
+      "date": "2020-1-22",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-23",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-24",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-25",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-26",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-27",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-28",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-29",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-30",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-31",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-1",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-2",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-3",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-4",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-5",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-6",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-7",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-8",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-9",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-10",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-11",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-12",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-13",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-15",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-16",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-17",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-18",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-19",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-20",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-21",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-22",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-23",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-24",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-25",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-26",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-27",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-28",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-29",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-1",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-2",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-3",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-4",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-5",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-6",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-7",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-8",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-9",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-10",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-11",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-12",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-13",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-15",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-16",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-17",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  ],
+  "Eritrea": [
+    {
+      "date": "2020-1-22",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-23",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-24",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-25",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-26",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-27",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-28",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-29",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-30",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-31",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-1",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-2",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-3",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-4",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-5",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-6",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-7",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-8",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-9",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-10",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-11",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-12",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-13",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-15",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-16",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-17",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-18",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-19",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-20",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-21",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-22",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-23",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-24",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-25",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-26",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-27",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-28",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-29",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-1",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-2",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-3",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-4",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-5",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-6",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-7",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-8",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-9",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-10",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-11",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-12",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-13",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-15",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-16",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-17",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": 1,
+      "deaths": 0,
+      "recovered": 0
+    }
+  ],
+  "Uganda": [
+    {
+      "date": "2020-1-22",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-23",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-24",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-25",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-26",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-27",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-28",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-29",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-30",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-1-31",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-1",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-2",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-3",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-4",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-5",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-6",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-7",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-8",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-9",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-10",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-11",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-12",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-13",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-15",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-16",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-17",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-18",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-19",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-20",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-21",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-22",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-23",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-24",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-25",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-26",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-27",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-28",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-2-29",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-1",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-2",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-3",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-4",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-5",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-6",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-7",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-8",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-9",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-10",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-11",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-12",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-13",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-15",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-16",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-17",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-18",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-19",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-20",
+      "confirmed": 0,
+      "deaths": 0,
+      "recovered": 0
+    },
+    {
+      "date": "2020-3-21",
+      "confirmed": 1,
       "deaths": 0,
       "recovered": 0
     }
