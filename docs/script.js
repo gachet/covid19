@@ -10,7 +10,7 @@ window.onload = function() {
     },
 
     mounted() {
-      return fetch("timeseries.json")
+      return fetch("https://pomber.github.io/covid19/timeseries.json")
         .then(res => res.json())
         .then(rawData => {
           this.data = Object.freeze(
